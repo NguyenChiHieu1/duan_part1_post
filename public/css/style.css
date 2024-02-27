@@ -306,6 +306,11 @@ img {
     margin: 0;
 }
 
+.admin-post-controls {
+    display: flex;
+    justify-content: flex-end;
+}
+
 .admin-post-controls form {
     display: inline-block;
 }
